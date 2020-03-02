@@ -1,0 +1,28 @@
+body{
+   background-color:#cce6ff;
+   color:white;
+}
+h1{
+    color:#c1ca1c;
+    font-size: 70px;
+}
+h2{
+    color:black;
+    font-size: 40px; 
+}
+h3{
+    color:#ff3300;
+    font-size: 40px;
+}
+button{
+    background-color: #e6e600;
+    color: black;
+    padding: 23px 40px;
+      display: inline-block;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
